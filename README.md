@@ -62,3 +62,4 @@ Para desligar as máquinas:
 ```bash
 vagrant halt
 ```
+# 525
